@@ -3,6 +3,8 @@ library(twitteR)
 library(httr)
 
 #Enter the info you had from Twitter when setting up your application:
+## These information can be retreivedfrom here : https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens.html
+## You need to set up a Twitter account if you don't have one, and create an application with that user account.
 
  api_key <- "your API key"
  api_secret <- "your Secret key"
