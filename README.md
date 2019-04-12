@@ -5,3 +5,5 @@ Importing and analyzing Twitter Data with R
 - conencting to the Twitetr API
 - extracting the Data
 - Storing the extracted tweets 
+- Cleaning and structuring tweets data
+- Visulizing tweets
