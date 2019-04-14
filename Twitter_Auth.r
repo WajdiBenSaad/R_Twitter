@@ -13,13 +13,3 @@ library(httr)
  
  #Now put these information into this function to setup your authentification:
  setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
-
-#If you get a message after this command, 
-# pick to store a local file of the authentification
-## [1] "Using direct authentication"
-
-#Now the fun part: lets collect some Tweets about Tunisia
-#we will get 1000 tweets with the word Tunisia in them:
-Tun_Tweets <- searchTwitter("Tunisia", n=1000)
-#lets see the Tweets:
-head(Tun_Tweets)
