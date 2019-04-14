@@ -2,7 +2,7 @@
 Importing and analyzing Twitter Data with R
 
 ## Steps covered in this projets:
-- [Connecting to the Twitetr API](/Twitter_Auth.r)
+- [Connecting to the Twitter API](/Twitter_Auth.r)
 
 The first step is to configure and to conenct to the Twitter API. Since this work is not going to be a "Web Scrapping" Projet, we will need to connect directly to Twitter Data streams through thier API.
 
