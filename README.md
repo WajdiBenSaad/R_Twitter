@@ -14,6 +14,7 @@ In order for us to analyze the tweets, this particular type of data needs to be 
 
 - [Building the Term Document Matrix](/termDocumentMatrix.r)
 
+A [document-term matrix or term-document matrix](https://en.wikipedia.org/wiki/Document-term_matrix) is a mathematical matrix that describes the frequency of terms that occur in a collection of documents.
 
 - [Plotting a WordCloud](/WordCloud.r)
 
