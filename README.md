@@ -8,7 +8,7 @@ The first step is to configure and to conenct to the Twitter API. Since this wor
 
 - [Extracting the Data from Twitter Feed](../R_Twitter )
 - [Cleaning and structuring tweets data](/CleaningTweets.r)
-- [Building the Term Document Matric](../R_Twitter)
+- [Building the Term Document Matrix](../R_Twitter)
 - [Plotting a WordCloud]()
 - [Association Analysis]()
 - [Topic Modelling]()
