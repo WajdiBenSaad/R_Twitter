@@ -1,5 +1,4 @@
-Importing and analyzing Twitter Data with R
-
+This work is about Playing with Twitter Data in R!
 ## Steps covered in this projets:
 - [Connecting to the Twitter API](/Twitter_Auth.r)
 
