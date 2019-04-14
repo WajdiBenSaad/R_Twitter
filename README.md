@@ -13,7 +13,7 @@ From here we will extract the tweets text and other information that we will imp
 In order for us to analyze the tweets, this particular type of data needs to be cleaned and stored in a certain way. Ponctuations, White spaces, Stop Words..and others should be cleaned and handeled in a specific way.
 
 - [Building the Term Document Matrix](/termDocumentMatrix.r)
-- [Plotting a WordCloud]()
+- [Plotting a WordCloud](/WordCloud.r)
 - [Association Analysis]()
 - [Topic Modelling]()
 - [Sentiment Analysis]()
