@@ -1,7 +1,9 @@
 ##Word Cloud:
 m <- as.matrix(tdm)
+
 # calculate the frequency of words and sort it by frequency
 word.freq <- sort(rowSums(m), decreasing = T)
+
 # colors
 pal <- brewer.pal(9, "BuGn")[-(1:4)]
 
