@@ -2,7 +2,9 @@
 #####Term Document Matrix:
 tdm <- TermDocumentMatrix(myCorpus, control = list(wordLengths = c(1, Inf)))
 
+##Let's see what we have in the term document matrix:
 tdm
+
 
 idx <- which(dimnames(tdm)$Terms %in% c("r", "data", "mining"))
 as.matrix(tdm[idx, 21:30])
