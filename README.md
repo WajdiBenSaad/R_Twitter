@@ -1,6 +1,6 @@
 ~~  Project still in progress. Please Check the project board to follow the upcoming updates  ~~
 
-This work is about Playing with Twitter Data in R!
+ This work is about Playing with Twitter Data in R!
 ## Steps covered in this projets:
 - [Connecting to the Twitter API](/Twitter_Auth.r)
 
