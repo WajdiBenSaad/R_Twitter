@@ -1,5 +1,7 @@
 # The packages we need are : 
-#twitteR and httr libraries, make sure you install them and have the latest version of thier dependencies 
+
+#twitteR and httr libraries, make sure you install them and have the latest version of thier dependencies :
+
 library(twitteR) 
 library(httr) 
 
