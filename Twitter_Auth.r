@@ -15,4 +15,5 @@ library(httr)
  access_token_secret <- "you Access Token Secret key??"
  
  # Now put these information into this function to setup your authentification:
+
  setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
